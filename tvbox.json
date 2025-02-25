@@ -1,7 +1,7 @@
 {
-"spider":"https://ghproxy.net/https://github.com/7guai/tv/raw/refs/heads/main/jar.php;md5;9ee5876dd981c99ea884684ef70119ac",
+"spider":"https://gh.llkk.cc/https://github.com/7guai/tv/raw/refs/heads/main/jar.php;md5;9ee5876dd981c99ea884684ef70119ac",
 "wallpaper":"http://667321.xyz:321/iptv/jiekou/image","logo":"https://5425.kstore.space/3d8db06721d9025d.gif",
-"lives":[{"name":"live","type":0,"playerType":1,"url":"https://ghproxy.net/https://github.com/7guai/tv/raw/refs/heads/main/tv.json","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}"}],
+"lives":[{"name":"live","type":0,"playerType":1,"url":"https://gh.llkk.cc/https://github.com/7guai/tv/raw/refs/heads/main/tv.json","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}"}],
 "sites":[
 {"key": "drpy_js_豆瓣","name": "宝哥推荐","type": 3,"api": "http://667321.xyz:321/iptv/jiekou/js/drpy2.min.js","searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "http://667321.xyz:321/iptv/jiekou/js/douban.js"},
 {"key":"极品","name":"极品┃App","type":3,"api":"csp_Jpys","playerType":1,"ext":"caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="},
@@ -10,7 +10,7 @@
 {"key":"真心","name":"真心｜影视","type":3,"api":"csp_WebGZ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"1905","name":"1905｜影视","type":3,"api":"csp_Web1905","searchable":1,"quickSearch":0,"filterable":0},
 {"key": "文采","name": "文采｜影视","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
-{"key":"糯米","name":"糯米┃App","type":3,"api":"csp_Nmvod","playerType":2,"jar":"https://ghproxy.net/https://github.com/7guai/tv/raw/refs/heads/main/lh250220-1.jar;md5;6878c4945c8ddfa80b052f14311377f2","ext":"eaHR0cHM6Ly9ubXZvZC5jbjozMTY2L3dlYmNsb3VkL3JlbGF5LnBocD91cmw9"},
+{"key":"糯米","name":"糯米┃App","type":3,"api":"csp_Nmvod","playerType":2,"jar":"https://gh.llkk.cc/https://github.com/7guai/tv/raw/refs/heads/main/lh250220-1.jar;md5;6878c4945c8ddfa80b052f14311377f2","ext":"eaHR0cHM6Ly9ubXZvZC5jbjozMTY2L3dlYmNsb3VkL3JlbGF5LnBocD91cmw9"},
 {"key":"全网","name":"全网｜影视","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.91qkw.com"},
 {"key":"雨滴","name":"雨滴｜影视","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="},
 {"key":"耐看","name":"耐看｜影视","type":3,"api":"csp_WebNK","searchable":1,"quickSearch":1,"filterable":1,"ext":"w7TClcONw6LDrsKYwoXCosKcwpvCrcKcw6HDrsKnwqDCo2rCqMKiw7HDsMOxYcKewpvClMOvw5fCqMOmw59VXFLCpMOiw6PCnMKzwpzCjuWGtemEmOaPleWRnMKf5Yem5L6Q5ZGxbeW+oeintui1tOa8ieetjMOXwpvDtw=="},
@@ -22,7 +22,7 @@
 {"key":"天天弹幕","name":"天天｜弹幕","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true,"site":"aHR0cDovL29wLnlzZHFqcy5jbg=="}},
 {"key":"热播弹幕","name":"热播｜弹幕","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true,"site":"aHR0cDovL3YucmJvdHYuY24="}},
 {"key":"移动","name":"移动｜影视","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1},
-{"key":"Dygang","name":"电影港『边下边播』","type":3,"jar":"https://ghproxy.net/https://github.com/7guai/tv/raw/refs/heads/main/lh250220-1.jar;md5;6878c4945c8ddfa80b052f14311377f2","api":"csp_Dygang"},
+{"key":"Dygang","name":"电影港『边下边播』","type":3,"jar":"https://gh.llkk.cc/https://github.com/7guai/tv/raw/refs/heads/main/lh250220-1.jar;md5;6878c4945c8ddfa80b052f14311377f2","api":"csp_Dygang"},
 {"key": "腐剧","name": "腐剧｜影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://www.fuju2024.cc:8013/ruifenglb_api.php/v1.vod"},
 {"key": "暴风","name": "暴风｜影视","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod"},
 {"key": "学堂","name": "🅰️学堂┃教育","type": 3,"api": "https://xn--yeto36i.v.xn--dkw.xn--6qq986b3xl/m//js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--yeto36i.v.xn--dkw.xn--6qq986b3xl/m//js/我的哔哩.js?type=url&params=https://xn--yeto36i.v.xn--dkw.xn--6qq986b3xl/m//Bilibili/学堂教育.json"},
